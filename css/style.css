@@ -20,14 +20,14 @@
 .nasted2{
   border: 1px solid black;
   min-height: 100px;
-  
+
 }
 
 /* header */
 
 #box{
   width: 90%;
-  margin: auto;
+  margin: 20px auto;
   background-color: white;
   text-align: center;
   -webkit-border-radius: 10px;
@@ -73,7 +73,8 @@ p{
 
 
 
-#section1{
+#section1,
+#section3{
   background-color: #F3F5F9;
 }
 
@@ -91,7 +92,6 @@ a{
 /* section 2 */
 #zion{
   border-left: 1px solid grey;
-
 }
 
 #zion div{
@@ -103,15 +103,50 @@ a{
   width: 40px;
   height: 40px;
   background-size: contain;
-
 }
+
+.padbot{
+  padding-bottom: 30px;
+}
+
 .centred{
   text-align: center;
   margin-top: 20px;
 }
+
+/* SECTION 5 */
+.mbottom{
+  border-bottom: 1px solid white;
+}
+
+.acro, .city{
+  display: inline-block;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.acro{
+  padding-right: 60px;
+  padding-left: 10px;
+  color: white;
+}
+
+.city{
+  padding-right: 320px;
+
+}
+
+
+
+
 /* sextion 7 */
-#section7{
+#section7,
+#section5{
   background: linear-gradient(0deg, rgba(0,31,154,1) 0%, rgba(0,67,187,1) 100%);
+}
+
+#section5{
+  padding-bottom: 60px;
 }
 .centredw{
   text-align: center;
