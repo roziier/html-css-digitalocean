@@ -71,6 +71,8 @@ p{
 /* MAIN */
 /* section 1 */
 
+
+
 #section1{
   background-color: #F3F5F9;
 }
@@ -86,6 +88,23 @@ a{
 
 }
 
+/* section 2 */
+#zion{
+  border-left: 1px solid grey;
+
+}
+
+#zion div{
+  padding: 5px;
+}
+
+#cluster{
+  background-image: url(../img/digitalocean-img/cluster-deploy.svg);
+  width: 40px;
+  height: 40px;
+  background-size: contain;
+
+}
 .centred{
   text-align: center;
   margin-top: 20px;
