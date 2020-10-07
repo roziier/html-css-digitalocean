@@ -7,20 +7,20 @@
 [class*="col-"]{
   border: 1px solid black;
   min-height: 100px;
-  background-color: lightgreen;
+
 
 }
 
 .nasted{
   border: 1px solid black;
   min-height: 100px;
-  background-color: orange;
+
 }
 
 .nasted2{
   border: 1px solid black;
   min-height: 100px;
-  background-color: grey;
+  
 }
 
 /* header */
