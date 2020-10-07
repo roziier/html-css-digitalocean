@@ -70,6 +70,11 @@ p{
 
 /* MAIN */
 /* section 1 */
+
+#section1{
+  background-color: #F3F5F9;
+}
+
 h6{
   text-align: center;
   color: silver;
@@ -78,5 +83,56 @@ h6{
 }
 
 a{
-  
+
+}
+
+.centred{
+  text-align: center;
+  margin-top: 20px;
+}
+/* sextion 7 */
+#section7{
+  background: linear-gradient(0deg, rgba(0,31,154,1) 0%, rgba(0,67,187,1) 100%);
+}
+.centredw{
+  text-align: center;
+  margin-top: 20px;
+  color: white;
+}
+.centredw h3{
+  margin-top: 50px;
+}
+.centredw input{
+  width: 50%;
+  color: #006DFF;
+  background-color: white;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  margin-bottom: 40px;
+}
+
+.centred p{
+  color: #244472;
+}
+
+/* footer */
+
+#color{
+  background: #031c4d;
+
+}
+
+footer li{
+  list-style: none;
+  padding: 3px 0;
+}
+
+footer ul{
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+
+.whitefoot{
+  color: white;
 }
