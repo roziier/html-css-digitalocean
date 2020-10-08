@@ -4,14 +4,14 @@
 }
 
 /* debug */
-[class*="col-"]{
+/* [class*="col-"]{
   border: 1px solid black;
   min-height: 100px;
-}
+} */
 
 
 
-.nasted{
+/* .nasted{
   border: 1px solid black;
   min-height: 100px;
 
@@ -20,7 +20,7 @@
 .nasted2{
   border: 1px solid black;
   min-height: 100px;
-}
+} */
 
 /* header */
 #logo{
