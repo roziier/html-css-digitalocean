@@ -233,9 +233,17 @@ footer ul{
   text-shadow: none;
 }
 
-.carousel-control{
-  color: #031C4E;
+.carousel-control.left
+{
+  background-image: none;
 }
+
+.carousel-control.right
+{
+  background-image: none;
+}
+
+
 
 .carousel-indicators li {
   border: 1px solid #031C4E;
