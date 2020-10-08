@@ -24,6 +24,23 @@
 }
 
 /* header */
+#logo{
+  background-image: url(../img/digitalocean-img/logo.png);
+  width: 150px;
+  height: 200%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.nav.navbar-nav{
+  padding-left: 100px;
+}
+
+.navbar li{
+  padding: 2px 0;
+}
+
+
 
 #box{
   width: 90%;
@@ -189,4 +206,26 @@ footer ul{
 
 .whitefoot{
   color: white;
+}
+
+/* carusel */
+.carousel-inner > .item{
+  height: 450px;
+
+}
+
+.item img{
+  width: 70%;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.carcar{
+  width: 70%;
+  margin: auto;
+}
+
+.carousel-caption{
+  color: #031C4E;
+  text-shadow: none;
 }
